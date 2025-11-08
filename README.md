@@ -1,5 +1,7 @@
 # On Any Banana Day
 
+[遊舎工房版Remapページ](https://remap-keys.app/catalog/Yh7ilZe15aTiKsTilepu)
+
 ## banana case.stl
 
 ケースファイルです。
